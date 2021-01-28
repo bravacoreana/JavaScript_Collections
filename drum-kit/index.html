@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drum Kit</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="keyboard-container">
+      <div data-key="65" class="key">
+        <kbd>a</kbd><span class="sound">DO</span>
+      </div>
+      <div data-key="83" class="key">
+        <kbd>s</kbd><span class="sound">RE</span>
+      </div>
+      <div data-key="68" class="key">
+        <kbd>d</kbd><span class="sound">MI</span>
+      </div>
+      <div data-key="70" class="key">
+        <kbd>f</kbd><span class="sound">FA</span>
+      </div>
+      <div data-key="71" class="key">
+        <kbd>g</kbd><span class="sound">SOL</span>
+      </div>
+      <div data-key="72" class="key">
+        <kbd>h</kbd><span class="sound">LA</span>
+      </div>
+      <div data-key="74" class="key">
+        <kbd>j</kbd><span class="sound">SI</span>
+      </div>
+      <div data-key="75" class="key">
+        <kbd>k</kbd><span class="sound">DO</span>
+      </div>
+      <div data-key="76" class="key">
+        <kbd>l</kbd><span class="sound">RE</span>
+      </div>
+      <div data-key="186" class="key">
+        <kbd>;</kbd><span class="sound">MI</span>
+      </div>
+    </div>
+
+    <audio data-key="65" src="piano-notes/c_midi.mp3"></audio>
+    <audio data-key="83" src="piano-notes/d_midi.mp3"></audio>
+    <audio data-key="68" src="piano-notes/e_midi.mp3"></audio>
+    <audio data-key="70" src="piano-notes/f_midi.mp3"></audio>
+    <audio data-key="71" src="piano-notes/g_midi.mp3"></audio>
+    <audio data-key="72" src="piano-notes/a_midi.mp3"></audio>
+    <audio data-key="74" src="piano-notes/b_midi.mp3"></audio>
+    <audio data-key="75" src="piano-notes/c+_midi.mp3"></audio>
+    <audio data-key="76" src="piano-notes/d+_midi.mp3"></audio>
+    <audio data-key="186" src="piano-notes/e+_midi.mp3"></audio>
+
+    <script src="main.js"></script>
+  </body>
+</html>
