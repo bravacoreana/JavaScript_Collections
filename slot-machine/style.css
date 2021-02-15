@@ -1,0 +1,54 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.slot-machine {
+  width: 600px;
+  height: 600px;
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.rule {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.seedmoney {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.slots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+}
+.slot {
+  width: 150px;
+  height: 150px;
+  background-color: burlywood;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
+
+.btn {
+  margin: 20px 0px;
+}
+
+input {
+  outline: none;
+}
