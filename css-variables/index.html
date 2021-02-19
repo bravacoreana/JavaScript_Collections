@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Variables with JS</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>CSS Variables</h1>
+      <div class="controls">
+        <label for="spacing">Spacing</label>
+        <input
+          type="range"
+          name="spacing"
+          min="0"
+          max="40"
+          value="10"
+          data-sizing="px"
+        />
+        <label for="blur">Blur</label>
+        <input
+          type="range"
+          name="blur"
+          min="0"
+          max="20"
+          value="4"
+          data-sizing="px"
+        />
+        <label for="base">Base Colour</label>
+        <input type="color" name="base" value="#6240BF" />
+      </div>
+      <div class="image">
+        <img src="korea.jpg" width="500" />
+        <p>Photo: Drew Graham @dizzyd718</p>
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
