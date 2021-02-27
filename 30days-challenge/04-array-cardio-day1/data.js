@@ -57,48 +57,6 @@ const people = [
   "Biondo, Frank",
 ];
 
-// Array.prototype.filter()
-// 1. Filter the list of inventors for those who were born in the 1500's
-
-//* my answer
-//* [1]
-const array1_1 = inventors.filter(inventor => inventor.year >=1500 && inventor.year<1600);
-// console.log(array1_1);
-
-//* [2] functional programming
-function filter(list, predicate) {
-  newList = [];
-  for (let i=0; i<list.length; i++) {
-    if(predicate(list[i])) newList.push(list[i])
-  }
-  return newList;
-}
-const array1_2 = filter(inventors, function(inventor){return inventor.year>=1500 && inventor.year<1600})
-// console.log(array2)
-//* solution
-
-// Array.prototype.map()
-// 2. Give us an array of the inventors first and last names
-//* my answer
-const array2_1 = inventors.map(inventor=>`${inventor.first} ${inventor.last}`);
-// console.log(array2_1)
-
-// Array.prototype.sort()
-// 3. Sort the inventors by birthdate, oldest to youngest
-
-// Array.prototype.reduce()
-// 4. How many years did all the inventors live all together?
-
-// 5. Sort the inventors by years lived
-
-// 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
-// https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
-
-// 7. sort Exercise
-// Sort the people alphabetically by last name
-
-// 8. Reduce Exercise
-// Sum up the instances of each of these
 const data = [
   "car",
   "car",
