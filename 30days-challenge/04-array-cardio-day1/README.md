@@ -16,6 +16,7 @@ keyword : [filter](#filter), [map](#map), [sort](#sort), [reduce](#reduce)
 ## 3. sort
 
 - [question3](q3-array-sort.js)
+- [question5](q5-array-sort.js)
 - [question7](q7-sort-exercise.js)
 
 ## 4. reduce
