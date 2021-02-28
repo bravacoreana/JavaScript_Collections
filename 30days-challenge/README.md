@@ -7,7 +7,7 @@
 | No  |                     Title                     | Completed | Diffifulty |                                                   Link                                                   |
 | :-: | :-------------------------------------------: | :-------: | :--------: | :------------------------------------------------------------------------------------------------------: |
 |  1  |                  JS Drum Kit                  |    ✨     |    ⭐️     |     [LINK](https://github.com/bravacoreana/js-collections/tree/master/30days-challenge/01-drum-kit)      |
-|  2  |               JS and CSS Clock                |           |            |                                                                                                          |
+|  2  |               JS and CSS Clock                |    ✨     |    ⭐️     |       [LINK](https://github.com/bravacoreana/js-collections/tree/master/30days-challenge/02-clock)       |
 |  3  |                 CSS Variables                 |           |            |                                                                                                          |
 |  4  |               Array Cardio Day1               |           | ⭐️⭐️⭐️  | [LINK](https://github.com/bravacoreana/js-collections/tree/master/30days-challenge/04-array-cardio-day1) |
 |  5  |              Flex Panel Gallery               |           |            |                                                                                                          |
