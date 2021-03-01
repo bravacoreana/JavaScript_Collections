@@ -11,7 +11,7 @@
 |  3  |                 CSS Variables                 |    ✨     |    ⭐️     | 🗝 [LINK](/30days-challenge/03-playing-withh-css-variables-and-js) |
 |  4  |               Array Cardio Day1               |           | ⭐️⭐️⭐️  |         🗝 [LINK](/30days-challenge/04-array-cardio-day1)          |
 |  5  |              Flex Panel Gallery               |    ✨     |    ⭐️     |     🗝 [LINK](/30days-challenge/05-flex-panels-image-gallery)      |
-|  6  |                  Type Ahead                   |           |            |                                                                   |
+|  6  |                Ajax Type Ahead                |           |   ⭐️⭐️   |          🗝 [LINK](/30days-challenge/06-ajax-type-ahead)           |
 |  7  |               Array Cardio Day2               |           |            |                                                                   |
 |  8  |             Fun with HTML5 Canvas             |           |            |                                                                   |
 |  9  |             Dev Tools Domination              |           |            |                                                                   |
