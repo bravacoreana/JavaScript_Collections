@@ -1,5 +1,8 @@
 // Array.prototype.sort()
 // 3. Sort the inventors by birthdate, oldest to youngest
+
+const inventors = require("./data-inventors");
+
 //* solution [1]
 const ordered = inventors.sort(function (firstPerson, secondPerson) {
   if (firstPerson.year > secondPerson.year) return 1;

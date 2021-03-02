@@ -1,6 +1,8 @@
 // Array.prototype.filter()
 // 1. Filter the list of inventors for those who were born in the 1500's
 
+const inventors = require("./data-inventors");
+
 //* my answer [1]
 const array1_1 = inventors.filter(
   (inventor) => inventor.year >= 1500 && inventor.year < 1600

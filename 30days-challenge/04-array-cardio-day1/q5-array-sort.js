@@ -1,4 +1,7 @@
 // 5. Sort the inventors by years lived: age
+
+const inventors = require("./data-inventors");
+
 const oldest = inventors.sort((a, b) => {
   const lastGuy = a.passed - a.year;
   const nextGuy = b.passed - b.year;

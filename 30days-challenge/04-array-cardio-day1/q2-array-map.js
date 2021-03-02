@@ -1,5 +1,7 @@
 // Array.prototype.map()
 // 2. Give us an array of the inventors first and last names
+
+const inventors = require("./data-inventors");
 //* my answer
 const array2_1 = inventors.map(
   (inventor) => `${inventor.first} ${inventor.last}`
