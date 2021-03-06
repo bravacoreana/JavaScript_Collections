@@ -14,7 +14,7 @@
 |  6  |                Ajax Type Ahead                |    ✨     |   ⭐️⭐️   |          🗝 [LINK](/30days-challenge/06-ajax-type-ahead)           |
 |  7  |               Array Cardio Day2               |    ✨     |    ⭐️     |         🗝 [LINK](/30days-challenge/07-array-cardio-day2)          |
 |  8  |             Fun with HTML5 Canvas             |           |    ⭐️     |       🗝 [LINK](/30days-challenge/08-fun-with-html5-canvas)        |
-|  9  |             Dev Tools Domination              |           |            |                                                                   |
+|  9  |             Dev Tools Domination              |    ✨     |    ⭐️     |          🗝 [LINK](/30days-challenge/09-dev-tool-tricks)           |
 | 10  |        Hold Shift and Check Checkboxes        |           |            |                                                                   |
 | 11  |              Custom Video Player              |           |            |                                                                   |
 | 12  |            Key Sequence Detection             |           |            |                                                                   |
