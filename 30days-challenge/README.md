@@ -15,7 +15,7 @@
 |  7  |               Array Cardio Day2               |    ✨     |    ⭐️     |         🗝 [LINK](/30days-challenge/07-array-cardio-day2)          |
 |  8  |             Fun with HTML5 Canvas             |           |    ⭐️     |       🗝 [LINK](/30days-challenge/08-fun-with-html5-canvas)        |
 |  9  |             Dev Tools Domination              |    ✨     |    ⭐️     |          🗝 [LINK](/30days-challenge/09-dev-tool-tricks)           |
-| 10  |        Hold Shift and Check Checkboxes        |           |            |                                                                   |
+| 10  |        Hold Shift and Check Checkboxes        |           |            |                  🗝 [LINK](/30days-challenge/10-)                  |
 | 11  |              Custom Video Player              |           |            |                                                                   |
 | 12  |            Key Sequence Detection             |           |            |                                                                   |
 | 13  |              Slide in on Scroll               |           |            |                                                                   |
