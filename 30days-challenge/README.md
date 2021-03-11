@@ -16,7 +16,7 @@
 |  8  |             Fun with HTML5 Canvas             |           |    ⭐️     |          🗝 [LINK](/30days-challenge/08-fun-with-html5-canvas)          |
 |  9  |             Dev Tools Domination              |    ✨     |    ⭐️     |             🗝 [LINK](/30days-challenge/09-dev-tool-tricks)             |
 | 10  |        Hold Shift and Check Checkboxes        |           |   ⭐️⭐️   | 🗝 [LINK](/30days-challenge/10-hold-shift-to-check-multiple-checkboxes) |
-| 11  |              Custom Video Player              |           |            |                                                                        |
+| 11  |              Custom Video Player              |           |            |        🗝 [LINK](/30days-challenge/11-custom-html5-video-player)        |
 | 12  |            Key Sequence Detection             |           |            |                                                                        |
 | 13  |              Slide in on Scroll               |           |            |                                                                        |
 | 14  |           JS References VS Copying            |           |            |                                                                        |
