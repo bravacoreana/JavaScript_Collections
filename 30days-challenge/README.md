@@ -17,8 +17,8 @@
 |  9  |             Dev Tools Domination              |    ✨     |    ⭐️     |             🗝 [LINK](/30days-challenge/09-dev-tool-tricks)             |
 | 10  |        Hold Shift and Check Checkboxes        |    ✨     |   ⭐️⭐️    | 🗝 [LINK](/30days-challenge/10-hold-shift-to-check-multiple-checkboxes) |
 | 11  |              Custom Video Player              |           |    ⭐️⭐️   |        🗝 [LINK](/30days-challenge/11-custom-html5-video-player)        |
-| 12  |            Key Sequence Detection             |    ✨     |     ⭐️     |          🗝 [LINK](/30days-challenge/12-key-sequence-detection) |
-| 13  |              Slide in on Scroll               |           |            |                                                                        |
+| 12  |            Key Sequence Detection             |    ✨     |     ⭐️     |          🗝 [LINK](/30days-challenge/12-key-sequence-detection)           |
+| 13  |              Slide in on Scroll               |           | ⭐️⭐️⭐️      |     🗝 [LINK](/30days-challenge/13-slide-in-on-scroll)                 |
 | 14  |           JS References VS Copying            |           |            |                                                                        |
 | 15  |                 LocalStorage                  |           |            |                                                                        |
 | 16  |               Mouse Move Shadow               |           |            |                                                                        |
