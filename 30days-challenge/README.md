@@ -25,7 +25,7 @@
 | 17  |             Sort Without Articles             |    ✨     |   ⭐️⭐️   |
 | 18  |          Adding Up Times with Reduce          |           | ⭐️⭐️⭐️  |
 | 19  |                  Webcam Fun                   |           | ⭐️⭐️⭐️  |
-| 20  |               Speech Detection                |           |            |
+| 20  |               Speech Detection                |    ✨     |    ⭐️     |
 | 21  |                  Geolocation                  |           |            |
 | 22  |         Follow Along Link Highlighter         |           |            |
 | 23  |               Speech Synthesis                |           |            |
