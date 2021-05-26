@@ -14,3 +14,5 @@ Learning JS piece by piece
 |   jonas-course   |   🗝 [LINK](jonas-course/README.md)   | Online course by [Jonas](https://github.com/jonasschmedtmann/complete-javascript-course) |
 |     grammar      |     🗝 [LINK](grammar/README.md)      | Grammar tips                                                                             |
 |   just-for-fun   |   🗝 [LINK](just-for-fun/README.md)   | Create something little just to have fun with JS                                         |
+
+논리 연산자
